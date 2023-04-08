@@ -9,6 +9,7 @@ packages = [{include = "web_hw06_create_table"}]
 [tool.poetry.dependencies]
 python = "^3.10"
 psycopg2 = "^2.9.6"
+faker = "^18.4.0"
 
 
 [build-system]
